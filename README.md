@@ -1,5 +1,4 @@
-# Projeto de avaliação para vaga de emprego.
-## com o objetivo de construir uma aplicação SPA com API Rest para gestão de contatos.
+# Projeto de uma aplicação SPA com API Rest para gestão de contatos.
 
 Dentro da pasta "Front" está uma aplicação SPA em Vue.js.
 
